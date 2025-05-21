@@ -48,13 +48,15 @@ To identify key performance indicators (KPIs) and uncover optimization opportuni
 
 #### 3️ Improve Planning
 
+
 - Deploy automated alerts for inefficient storage to enable real-time adjustments.
 
 ## **Conclusion** ##
 
 The warehouse demonstrates strong revenue and profit margins, but opportunities exist to enhance inventory efficiency, reduce costs, and optimize warehouse space utilization. Implementing these recommendations will drive higher profitability and operational excellence.
 
- Want to explore the full analysis? Check out the interactive Power BI dashboard 
+ Want to explore the full analysis? Check out the interactive Power BI dashboard
+ Warehouse_space_utilization_analysis (1).pbix
 
--- For collaboration, feel free to connect with me on LinkedIn!
+-- For collaboration, feel free to connect with me on LinkedIn! https://www.linkedin.com/in/evalyn-njagi-115995168/
 
