@@ -4,7 +4,8 @@
 ## **Overview** ##
 This project analyzes warehouse performance using Power BI, focusing on inventory turnover, space utilization, and operational efficiency. By leveraging data visualization, SQL, and DAX, this analysis provides actionable insights to optimize warehouse operations and enhance profitability.
 
-![image](https://github.com/user-attachments/assets/cd5f0711-049a-4204-bf82-216f3b7c2ea5)
+<img width="1302" height="675" alt="image" src="https://github.com/user-attachments/assets/aa863f09-01e6-47eb-baa1-40706262c1ec" />
+
 
 
 ## Objective ##
